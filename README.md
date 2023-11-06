@@ -1,4 +1,4 @@
-TITLE: (PUT NEW GAME NAME HERE)
+ROCK PAPER SCISSORS/ROAD CROSSING GAME
 
 In this project I will be creating a new game using HTML, CSS and Javascript.
 
@@ -22,7 +22,7 @@ API Reference: list your references here: https://meakaakka.medium.com/a-beginne
 
 Tests: 
 
-How to use: Step by step instructions.
+How to use: Step by step instructions.  Rock, Paper Scissors is usually played by two people, and usually by hand.  
 
 Contribute: 
 

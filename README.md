@@ -1,4 +1,4 @@
-ROCK PAPER SCISSORS/ROAD CROSSING GAME
+STORY/ROCK PAPER SCISSORS/ROAD CROSSING GAME
 
 In this project I will be creating a new game using HTML, CSS and Javascript.
 
@@ -32,3 +32,11 @@ Credit: blogposts, people, inspiration etc.
 
 License: 
 
+If you build a story:
+Must have two Classes and one instance of each class
+
+Example: make a Dog Class and create a Dog named Sam
+Example: make a Person Class and create a Person named John
+Story must be controlled by buttons
+Must use Flexbox
+Must have a reset button

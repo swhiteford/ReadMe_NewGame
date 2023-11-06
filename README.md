@@ -6,3 +6,4 @@ Motivation: The motivation for this project is to complete an assignment that ha
 
 Build Status: Wireframe creation stage.  
 
+Code style: Standard?

@@ -1,3 +1,5 @@
+![alt text]([http://url/to/img.png](https://www.rd.com/wp-content/uploads/sites/2/2016/04/rock-paper-scissor-ft.jpg))
+
 ROCK PAPER SCISSORS
 
 In this project I will be creating a new game using HTML, CSS and Javascript.

@@ -20,3 +20,7 @@ Installation:
 
 API Reference: list your references here: https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3, 
 
+Tests: 
+
+How to use: 
+

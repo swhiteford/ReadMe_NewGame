@@ -18,11 +18,13 @@ Code Example:
 
 Installation: 
 
-API Reference: list your references here: https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3, 
+API Reference: list your references here: 
+	https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3, 
+	https://en.wikipedia.org/wiki/Rock_paper_scissors
 
 Tests: 
 
-How to use: Step by step instructions.  Rock, Paper Scissors is usually played by two people, and usually by hand.  
+How to use: Step by step instructions.  Rock, Paper Scissors is usually played by two people, and usually by hand.  These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V)
 
 Contribute: 
 

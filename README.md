@@ -24,7 +24,7 @@ API Reference: list your references here:
 
 Tests: 
 
-How to use: Step by step instructions.  Rock, Paper Scissors is usually played by two people, and usually by hand.  These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V)
+How to use: Step by step instructions.  Rock, Paper Scissors is usually played by two people, and usually by hand.  These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V).  There are three possible outcomes: a draw, a win or a loss. A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors"), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually replayed to break the tie.  Rock paper scissors is similar to coin flipping, and is sometimes used to settle a dispute or make an unbiased group decision.
 
 Contribute: 
 

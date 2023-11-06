@@ -12,3 +12,6 @@ Screenshots:
 
 Tech/framework used: 
 
+Features: My project stands out because...
+
+Code Example: 

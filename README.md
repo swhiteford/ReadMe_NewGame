@@ -22,5 +22,11 @@ API Reference: list your references here: https://meakaakka.medium.com/a-beginne
 
 Tests: 
 
-How to use: 
+How to use: Step by step instructions.
+
+Contribute: 
+
+Credit: blogposts, people, inspiration etc.
+
+License: 
 

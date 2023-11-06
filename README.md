@@ -15,3 +15,8 @@ Tech/framework used:
 Features: My project stands out because...
 
 Code Example: 
+
+Installation: 
+
+API Reference: list your references here: https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3, 
+

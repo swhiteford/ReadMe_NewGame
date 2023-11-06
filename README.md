@@ -1,4 +1,4 @@
-STORY/ROCK PAPER SCISSORS/ROAD CROSSING GAME
+ROCK PAPER SCISSORS
 
 In this project I will be creating a new game using HTML, CSS and Javascript.
 
@@ -12,7 +12,7 @@ Screenshots:
 
 Tech/framework used: 
 
-Features: My project stands out because...
+Features: My project stands out because this would be the first project I have used Readme for.
 
 Code Example: 
 

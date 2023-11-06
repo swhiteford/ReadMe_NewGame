@@ -1,4 +1,4 @@
-!alt text([http://url/to/img.png](https://www.rd.com/wp-content/uploads/sites/2/2016/04/rock-paper-scissor-ft.jpg))
+![alt text](https://www.rd.com/wp-content/uploads/sites/2/2016/04/rock-paper-scissor-ft.jpg)
 
 ROCK PAPER SCISSORS
 

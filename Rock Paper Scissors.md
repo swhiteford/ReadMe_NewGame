@@ -10,7 +10,7 @@ Build Status: Wireframe creation stage.
 
 Code style: Standard?
 
-Screenshots: 
+Screenshots:
 
 Tech/framework used: 
 
@@ -35,3 +35,6 @@ Contribute:
 Credit: blogposts, people, inspiration etc.
 
 License: 
+
+Notes: MVP : rounds (one round, best of three).  Working, stylize.  Extras - Scorecard.
+
